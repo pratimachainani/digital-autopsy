@@ -68,7 +68,7 @@ Provide the crisp, succinct output in [MODEL_NAME]_analysis.md
 
 ## Example Usage
 
-### Analyzing NSFW Model in 3P Pipeline
+### Analyzing Profanity Detection Model in Item Launch Pipeline
 ```
 Role and Goal
 As a Senior Consultant Developer, I want you to scan the 3p-pipeline repository for NSFW model occurrences.
